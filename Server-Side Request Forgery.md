@@ -7,3 +7,12 @@ A vulnerability in the HTML editor of Slab Quill 1.3.7 allows an attacker to exe
 ## Affected Versions
 
 Quill Versions <=1.3.7 or All Versions.
+
+## Vendor of Product
+
+https://quilljs.com/
+
+## References
+
+https://github.com/quilljs/quill/issues/3813
+https://github.com/God-Pattern/QuillJS/blob/main/Server-Side%20Request%20Forgery.md
